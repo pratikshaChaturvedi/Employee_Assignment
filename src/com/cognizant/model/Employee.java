@@ -148,5 +148,4 @@ public class Employee {
 				+ ssn + ", streetAddress=" + streetAddress + ", city=" + city + ", state=" + state + ", zip=" + zip
 				+ "]";
 	}
-
 }
